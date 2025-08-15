@@ -1,8 +1,6 @@
 ###👋 HELLO FRIEND 👋###
 
-- 🔭 Trabalho Com Back-End
-- 🌱 Estudando JavaScript/Node e C#
-- 👯 Procurando meu Primeiro Emprego
+- 🔭 Trabalho Com Back-End/Front-End
 - 📫 Contato: ruangustavo50711@gmail.com
 - 😄 Ele/Dele
 
